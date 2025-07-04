@@ -130,7 +130,7 @@ static stock AirDropTheFloor()
     return IsDynamicObjectMoving(ServerAirdrop[E_AIRDROP_OBJECTS][AIRDROP]);
 
 static stock IsPlayerInAreaAirDrop(playerid)
-    return IsPlayerInAnyDynamicArea(playerid, ServerAirdrop[E_AIRDROP_AREA];
+    return IsPlayerInAnyDynamicArea(playerid, ServerAirdrop[E_AIRDROP_AREA]);
 
 static stock IsPlayerInAirdrop(playerid)
     return IsPlayerInRangeOfPoint(playerid, 2.0, ServerAirdrop[E_AIRDROP_POSX], ServerAirdrop[E_AIRDROP_POSY], ServerAirdrop[E_AIRDROP_POSZ]);
