@@ -1,4 +1,4 @@
-# SA-MP Advanced Airdrop Event System
+# 🫧 SA-MP Advanced Airdrop Event System
 
 ## 📋 Descrição
 
