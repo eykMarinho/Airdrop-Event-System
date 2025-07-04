@@ -1,7 +1,7 @@
 # SA-MP Advanced Airdrop Event System
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_IMAGE_HERE.png" alt="Airdrop System" width="600">
+   
 </p>
 
 ## 📋 Descrição
