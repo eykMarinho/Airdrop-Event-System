@@ -2,7 +2,7 @@
 
 ## 📋 Descrição
 
-Sistema profissional de eventos Airdrop para servidores SA-MP. Este sistema permite que administradores iniciem eventos de Airdrop em qualquer localização do mapa, criando uma zona de combate onde jogadores podem competir para coletar armas e itens especiais.
+Sistema de eventos Airdrop para servidores SA-MP. Este sistema permite que administradores iniciem eventos de Airdrop em qualquer localização do mapa, criando uma zona de combate onde jogadores podem competir para coletar armas e itens especiais.
 
 ## ✨ Funcionalidades
 
@@ -10,7 +10,6 @@ Sistema profissional de eventos Airdrop para servidores SA-MP. Este sistema perm
 - Animação realista de queda do Airdrop do céu
 - Zona de perigo demarcada com GangZone vermelha
 - Notificação para jogadores ao entrar na zona de perigo
-- Sistema de coleta com timer de 60 segundos
 - Recompensa de armas para o jogador que coletar o Airdrop
 - Ícone no mapa para localizar o Airdrop
 - Texto 3D informativo sobre o Airdrop
