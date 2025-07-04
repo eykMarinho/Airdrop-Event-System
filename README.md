@@ -4,6 +4,10 @@
 
 Sistema de eventos Airdrop para servidores SA-MP. Este sistema permite que administradores iniciem eventos de Airdrop em qualquer localização do mapa, criando uma zona de combate onde jogadores podem competir para coletar armas e itens especiais.
 
+
+https://github.com/user-attachments/assets/7c6386d3-3db8-48d0-b650-1c4a05c3710d
+
+
 ## ✨ Funcionalidades
 
 - Criação de eventos Airdrop em qualquer localização do mapa
@@ -46,7 +50,7 @@ GivePlayerWeapon(playerid, 31, 150);  // Dá ao jogador uma M4 com 150 muniçõe
 
 ## 📝 Comandos
 
-- `/Airdrop` - Inicia um evento de Airdrop na posição atual do jogador (apenas para administradores)
+- `/Airdrop` - Inicia um evento de Airdrop na posição atual do jogador
 - `/pAirdrop` - Coleta o Airdrop (deve estar próximo ao Airdrop e dentro da zona de perigo)
 
 ## 👨‍💻 Desenvolvido por
