@@ -1,9 +1,5 @@
 # SA-MP Advanced Airdrop Event System
 
-<p align="center">
-   
-</p>
-
 ## 📋 Descrição
 
 Sistema profissional de eventos Airdrop para servidores SA-MP. Este sistema permite que administradores iniciem eventos de Airdrop em qualquer localização do mapa, criando uma zona de combate onde jogadores podem competir para coletar armas e itens especiais.
