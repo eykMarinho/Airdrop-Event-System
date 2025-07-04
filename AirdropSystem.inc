@@ -75,9 +75,7 @@ hook OnPlayerDisconnect(playerid, reason)
 hook OnPlayerEnterDynamicArea(playerid, STREAMER_TAG_AREA:areaid)
 {
     if(areaid == ServerAirdrop[E_AIRDROP_AREA])
-    {
         SendClientMessage(playerid, 0xFF0000FF,"AIRDROP: Voce entrou em uma zona de perigo!");
-    }
 
     return Y_HOOKS_CONTINUE_RETURN_1;
 }
