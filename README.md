@@ -21,18 +21,13 @@ Este sistema requer as seguintes dependências:
 
 ### Streamer Plugin v2.9.6 v1.0.0
 - Download: [GitHub - samp-incognito/samp-streamer-plugin](https://github.com/samp-incognito/samp-streamer-plugin/releases)
-- Instalação: Coloque os arquivos `streamer.dll` (Windows) ou `streamer.so` (Linux) na pasta `plugins` do seu servidor
-- Adicione `streamer` à linha `plugins` no seu arquivo `server.cfg`
 
 ### YSI-Includes
 - Download: [GitHub - pawn-lang/YSI-Includes](https://github.com/pawn-lang/YSI-Includes)
-- Instalação: Extraia os arquivos para a pasta `pawno/include` do seu servidor
+
 
 ### Pawn.CMD 3.4.0
 - Download: [GitHub - katursis/Pawn.CMD](https://github.com/katursis/Pawn.CMD/releases)
-- Instalação: Coloque os arquivos `pawncmd.dll` (Windows) ou `pawncmd.so` (Linux) na pasta `plugins` do seu servidor
-- Coloque o arquivo `Pawn.CMD.inc` na pasta `pawno/include` do seu servidor
-- Adicione `pawncmd` à linha `plugins` no seu arquivo `server.cfg`
 
 ## 🔧 Configuração
 
